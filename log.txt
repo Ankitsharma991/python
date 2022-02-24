@@ -1,0 +1,6 @@
+the application of log files is when you are using an application then you can  put the data of that application i the log file and
+due to network connection , i cannot add the log files here of ibm   
+so hope you understand  
+Python stopped working 
+
+log files gives the details of the woring of an application 
